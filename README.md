@@ -149,4 +149,6 @@ The `task1.ipynb` contains:
 ---
 
 **Project Created**: Vortextech Data Science Week 1  
-**Status**: Data cleaning and exploration complete ✓
+**Status**: Data cleaning and exploration complete 
+
+Dataset Download Link:https://www.kaggle.com/datasets/carrie1/ecommerce-data
